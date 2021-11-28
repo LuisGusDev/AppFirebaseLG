@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754652416624",
+    "project_id": "bdfire-a9e0c",
+    "storage_bucket": "bdfire-a9e0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754652416624:android:055a03b15e58dd8e8182b5",
+        "android_client_info": {
+          "package_name": "mx.edu.utng.appfirebasegds0343"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754652416624-9cq6blb97op4864v71dfvn792f47t6i2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT2hQpMi40iIU06bwDN1Npw10BTy4-UVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754652416624-9cq6blb97op4864v71dfvn792f47t6i2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
